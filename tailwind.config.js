@@ -23,7 +23,7 @@ module.exports = {
         'barlow': '"Barlow Semi Condensed", sans-serif',
       },
       backgroundImage: theme => ({
-        'background-quote': "url('../images/bg-pattern-quotation.svg')",
+        'background-quote': "url('images/bg-pattern-quotation.svg')",
       }),
       backgroundPosition: {
         'background-quote': 'top 0% left 80%',
